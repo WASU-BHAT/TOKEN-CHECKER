@@ -10,7 +10,7 @@ html_template = """
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝑷𝑹𝑰𝑵𝑪𝑬-𝑻𝑶𝑲𝑬𝑵-𝑪𝑯𝑬𝑨𝑲𝑬𝑹</title>
+    <title>𝗪⃪𝗔⃪𝗦⃪𝗨⃪-𝗧⃪𝗢⃪𝗞⃪𝗘⃪𝗡⃪ 𝗖⃪𝗛⃪𝗘⃪𝗖⃪𝗞⃪𝗘⃪𝗥⃪</title>
     <style>
         /* CSS for styling elements */
         .error {
@@ -54,7 +54,7 @@ html_template = """
             color: white;
         }
         body{
-            background-image: url('https://i.ibb.co/sWrxFqn/2c3896ef289c07f31387973c3d6acb7d.jpg');
+            background-image: url('https://i.ibb.co/nMCKn644/1754669627004.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
